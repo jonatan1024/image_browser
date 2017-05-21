@@ -1,0 +1,23 @@
+{
+    "main_script": "image_browser.js",
+    "icon": "image_browser.png",
+    "width": 4096,
+    "height": 2048,
+    "resize": "free",
+    "animation": false,
+    "dependencies": [
+        "image_browser.css"
+    ],
+    "load": {
+        "cwd": "/",
+        "file": "",
+        "top": 0,
+        "selected": 0
+    },
+    "title": "Image Browser",
+    "version": "1.0.0",
+    "description": "SAGE2 application image_browser",
+    "keywords": [ "sage2", "image_browser" ],
+    "author": "Jonatan Matějka <jonatan1024@gmail.com>",
+    "license": "SAGE2-Software-License"
+}
